@@ -1,9 +1,8 @@
 #!/bin/bash
 
 read -p "What is your name? " name
-
-company="GDMS"
-role="Linux Automation Intern"
+read -p "What is your company" company
+read -p "What is your role" role"
 
 echo "Name: $name"
 echo "Company: $company"

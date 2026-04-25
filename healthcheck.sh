@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOGFILE="/home/takawitz06/scripts/healthcheck.log"
+LOGFILE="$HOME/scripts/healthcheck.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
 echo "The date is $DATE"
 
