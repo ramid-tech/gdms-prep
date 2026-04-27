@@ -1,6 +1,6 @@
-# GDMS Internship Prep
+# Internship Prep
 
-Bash scripts written while preparing for a Linux Automation internship.
+Bash scripts written while preparing for a CyberSecurity internship.
 
 ## Scripts
 
